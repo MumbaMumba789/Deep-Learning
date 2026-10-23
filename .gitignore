@@ -1,0 +1,11 @@
+# MLflow experiment database and tracking files
+myfirstlesson_on_nn/mlflow.db
+myfirstlesson_on_nn/mlruns/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
