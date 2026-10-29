@@ -20,3 +20,4 @@ venv/
 **/.ipynb_checkpoints/
 **/mlflow.db
 **/mlruns/
+myfirstlesson_on_nn/data/
