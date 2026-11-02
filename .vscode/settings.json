@@ -6,5 +6,6 @@
     "**/.venv-*": true,
     "**/venv": true,
     "**/mlruns": true
-  }
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
